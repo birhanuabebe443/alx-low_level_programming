@@ -2,8 +2,7 @@
 
 /**
  *    print_alphabet_x10 - Make alphabet x10 times
- *      
- *         Return: void
+ *    Return: void
  */
 void print_alphabet_x10(void)
 {
@@ -16,7 +15,7 @@ void print_alphabet_x10(void)
 													{
 														_putchar(c);
 													}
-		_putchar('\n');
-												i++;
-		}
+			_putchar('\n');
+	 												i++;
+	  	}
 }
