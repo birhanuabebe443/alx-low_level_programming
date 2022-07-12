@@ -5,7 +5,7 @@
  *  @s: char type pointer argument
  *   Description: convert a string to an integer
  *    Return: value of s
- *    */
+ */
 int _atoi(char *s)
 {
 	int i, sign, numb;
